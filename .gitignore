@@ -108,3 +108,36 @@ dist
 
 # mac
 .DS_Store
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.rej
+*.swo
+*.vi
+ 
+# Packages 
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+ 
+# OS or Editor folders
+.idea
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+Thumbs.db
+ehthumbs.db
+.Spotlight-V100
+.Trashes
+*.swp
